@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shikimori Client</string>
+    <string name="NICK_NAME">Nickname</string>
+    <string name="PASSWORD">Password</string>
+    <string name="LOGIN">Login</string>
+    <string name="WRONG_CREDENTIALS">Wrong credentials!</string>
+    <string name="IMAGE_DEFAULT_DESCRIPTION">image</string>
+</resources>

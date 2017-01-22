@@ -1,0 +1,1 @@
+include ':app', ':shikimoriapi', ':module_ui', ':ui_demo'
